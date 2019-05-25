@@ -6,71 +6,80 @@ body,html
 }
 .face1
 {
-   width: 110%;
+   width: 100%;
     height: 100%;
-    background-image: url(../images/Artboard%201%20copy%2011@300x.png);
+    background-image: url(../images/Artboard%201%20copy%2011.png);
     background-size: contain;
     background-attachment: fixed;
     background-position: center;
 }
 .face2
 {
-  width: 110%;
+  width: 100%;
     height: 100%;
-    background-image: url(../images/Artboard%201%20copy%2012@300x.png);
+    background-image: url(../images/Artboard%201%20copy%2012.png);
     background-size: contain;
     background-attachment: fixed;
     background-position: center;  
 }
 .face3
 {
-    width: 110%;
+    width: 100%;
     height: 100%;
-    background-image: url(../images/Artboard%201%20copy%2013@300x.png);
+    background-image: url(../images/Artboard%201%20copy%2013.png);
     background-size: contain;
     background-attachment: fixed;
     background-position: center;
 }
 .face4
 {
-    width: 110%;
+    width: 100%;
     height: 100%;
-    background-image: url(../images/Artboard%201%20copy%2014@300x.png);
+    background-image: url(../images/Artboard%201%20copy%2014.png);
     background-size: contain;
     background-attachment: fixed;
     background-position: center;
 }
 .face5
 {
-    width: 110%;
+    width: 100%;
     height: 100%;
-    background-image: url(../images/Artboard%201%20copy%2015@300x.png);
+    background-image: url(../images/Artboard%201%20copy%2015.png);
     background-size: contain;
     background-attachment: fixed;
     background-position: center;
 }
 .face6{
-    width: 110%;
+    width: 100%;
     height: 100%;
-    background-image: url(../images/Artboard%201%20copy%202@300x.png);
+    background-image: url(../images/Artboard%201%20copy%2017.png);
     background-size: contain;
     background-attachment: fixed;
     background-position: center;
     
 }
 .face7{
-    width: 110%;
+    width: 100%;
     height: 100%;
-    background-image: url(../images/Artboard%201%20copy%205@300x.png);
+    background-image: url(../images/Artboard%201%20copy%202.png);
     background-size: contain;
     background-attachment: fixed;
     background-position: center;
     
 }
 .face8{
-    width: 110%;
+    width: 100%;
     height: 100%;
-    background-image: url(../images/Artboard%201%20copy%208@300x.png);
+    background-image: url(../images/Artboard%201%20copy%205.png);
+    background-size: contain;
+    background-attachment: fixed;
+    background-position: center;
+    
+}
+.face9{
+    width: 100%;
+    height: 100%;
+    background-image: url(../images/Artboard%201%20copy%208.png);
     background-size: contain;
     background-attachment: fixed;
     background-position: center;
